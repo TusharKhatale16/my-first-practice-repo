@@ -20,7 +20,7 @@ In HTML, headings help structure content and improve readability, as well as SEO
 
 Below is a screenshot of the home page:
 
-![Screenshot of the home page](.\img\home-screenshot.png)
+![Screenshot of the home page](img/home-screenshot.png)
 
 ## Summary  
 
@@ -28,5 +28,4 @@ This project is a simple demonstration of HTML heading tags and their importance
 It is my first code upload on GitHub, and I look forward to learning more! 🚀  
 
 ---
-
-Let me know if you need any further modifications! 😊  
+ 
